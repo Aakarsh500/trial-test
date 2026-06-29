@@ -10,4 +10,4 @@ app.db
 .pytest_cache/
 .vscode/
 .idea/
-RENDER_HOSTING_GUIDE.md
+RENDER_HOSTING_GUIDE.docx
